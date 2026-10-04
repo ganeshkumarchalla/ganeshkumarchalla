@@ -71,6 +71,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ganeshkumarchalla&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+</div> 
+<!-- Monthly Green Dots Contribution Grid -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/39d353/ganeshkumarchalla" alt="Ganesh's GitHub Green Dots Activity Calendar" width="100%" />
 </div>
 
 ---
