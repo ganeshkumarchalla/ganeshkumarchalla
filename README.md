@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=180&section=header&text=Challa%20Ganesh%20Kumar&fontSize=42&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%E2%80%A2%20Mohan%20Babu%20University&descAlignY=62&descAlign=50" width="100%"/>
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Challa%20Ganesh%20Kumar&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20and%20ML)%20%7C%20Mohan%20Babu%20University&descAlignY=62" width="100%"/>
+</div>
 
   <!-- Typing SVG Intro -->
   <a href="https://github.com/ganeshkumarchalla">
