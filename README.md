@@ -52,19 +52,15 @@
 
 ---
 
-### 📂 Featured Python Projects
+### 🐍 Practiced Python Projects
 
-| Project | Description | Source |
-| :--- | :--- | :--- |
-| 🐍 **Python Projects Collection** | Collection of Python projects, CS50 problem sets & 100 Days of Code exercises | [`Python-Projects`](https://github.com/ganeshkumarchalla/Python-Projects) |
-| 🎵 **Band Name Generator** | Variable manipulation, string formatting, and Python I/O basics | [`Bandnamegenerator_1`](https://github.com/ganeshkumarchalla/Bandnamegenerator_1) |
-| 🐍 **My First Python Program** | First Python script and basic CS50P learning exercise | [`firstpythonprogram`](https://github.com/ganeshkumarchalla/firstpythonprogram) |
-| 💵 **Tip & Split Calculator** | Arithmetic calculations, float precision, and bill splitting logic | [`Tip-Calculator`](https://github.com/ganeshkumarchalla/Tip-Calculator) |
-| 🎢 **Roller Coaster Script** | Project logic and condition-based flow control | [`rollercoster.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/rollercoster.py) |
-| 🍕 **Pizza Delivery Script** | Python-based interactive pizza ordering logic | [`pizzadelivery.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/pizzadelivery/pizzadelivery.py) |
-| 🧮 **Tip Calculator Script** | Functional Python script for tip calculation | [`tip.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/tipcalculator/tip.py) |
-| 📝 **Main Program Files** | All core Python learning scripts from the collection | [`main.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/bandnamegenerator_1/main.py) |
-| 🐍 **Python Files in Repo** | Full Python file collection from `/Python-Projects` | [`Python-Projects .py files`](https://github.com/ganeshkumarchalla/Python-Projects) |
+| Project | Description | Learnings | Source |
+| :--- | :--- | :--- | :--- |
+| 🎵 **Band Name Generator** | Generates a fun band name using city and pet name | Variables, input(), concatenation | [`bandnamegenerator_1`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/bandnamegenerator_1/main.py) |
+| 👋 **First Python Program** | Basic greeting program that welcomes the user by name | print(), input(), f-strings | [`firstpythonprogram`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/firstpythonprogram/main.py) |
+| 🎢 **Roller Coaster** | Checks height and age to determine ticket price and photo option | if/elif/else, nested conditions | [`rollercoster.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/Rollercoster/rollercoster.py) |
+| 🍕 **Pizza Delivery** | Calculates the total cost of a pizza order with add-ons | Conditions, bill calculation | [`pizzadelivery.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/pizzadelivery/pizzadelivery.py) |
+| 💵 **Tip Calculator** | Computes tip amount and split bill among friends | Arithmetic, division, formatting outputs | [`tip.py`](https://github.com/ganeshkumarchalla/Python-Projects/blob/main/projects/Tip-Calculator/tip.py) |
 
 ---
 
